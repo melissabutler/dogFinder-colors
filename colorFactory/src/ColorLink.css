@@ -1,0 +1,10 @@
+.ColorLink {
+    margin: 1rem;
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+.ColorLink-link {
+    padding: 1rem;
+    border-radius: 10px;
+}

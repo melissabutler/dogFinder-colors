@@ -1,0 +1,20 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.ColorPage {
+    display: inline;
+    align-items: center;
+    text-align: center;
+}
+
+.ColorPage-words {
+    padding-top: 40vh;
+}
+
+.ColorPage-button {
+    background-color: black;
+    padding: 1rem;
+    border-radius: 10px;
+}

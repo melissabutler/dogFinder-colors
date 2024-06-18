@@ -1,0 +1,23 @@
+.ColorList {
+    color: white;
+    display: inline; 
+    align-items: center;
+    /* text-align: center; */
+
+}
+
+.ColorList-title {
+    padding: 2rem;
+    text-align: center;
+
+}
+
+.ColorList-list {
+    display: block;
+    list-style: none;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    padding: 2rem;
+}
+
